@@ -6,6 +6,8 @@ O objetivo central do projeto é modelar o jogo como um **Processo de Decisão d
 1. **Q-Learning Tabular (Seção 2.5.1 do livro de Kevin P. Murphy)**
 2. **Q-Learning por Função de Aproximação Linear (Seção 2.5.2 do livro de Kevin P. Murphy)**
 
+**[Clique aqui para jogar direto no navegador!](https://launzoa.github.io/snake-game/)**
+
 ---
 
 ## Modelagem do Ambiente (MDP)
